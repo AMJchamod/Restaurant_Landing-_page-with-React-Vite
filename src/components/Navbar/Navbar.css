@@ -35,6 +35,7 @@
 
 .app__navbar-links li:hover {
     color: gray;
+    border-bottom: 1px solid gold;
 }
 
 .app__navbar-login {
@@ -111,7 +112,7 @@
 
 @media screen and (max-width: 1150px) {
     .app__navbar-links {
-        display: none;
+       
     }
 
     .app__navbar-smallscreen {
