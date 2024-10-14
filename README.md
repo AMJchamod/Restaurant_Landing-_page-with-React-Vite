@@ -1,6 +1,6 @@
 # Restaurant Landing Page
 
-![Project Preview](path/to/your/image.png)
+![Project Preview](Screenshot.png)
 
 This project helped me to understand:
 
