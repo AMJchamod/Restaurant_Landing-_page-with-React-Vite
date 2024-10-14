@@ -1,8 +1,14 @@
-# React + Vite
+# Restaurant Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Preview](path/to/your/image.png)
 
-Currently, two official plugins are available:
+This project helped me to understand:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React Functional Components and Their Reusability**: I learned how to create functional components that can be reused throughout the application, promoting a more modular approach.
+- **React File and Folder Structure**: I focused on organizing files and folders effectively, making it easier to navigate and maintain the project as it grows.
+- **Fundamental CSS Properties to Master Flex & Grid**: I mastered Flexbox and Grid layout techniques, allowing for flexible and responsive designs that adapt to different screen sizes.
+- **Fundamentals of the CSS BEM Model**: I applied the BEM methodology for structuring CSS classes, which improved readability and maintainability.
+- **Soft and Pleasant Animations to Complex Gradients**: I experimented with CSS animations to enhance user experience and incorporated complex gradients to make the design visually appealing.
+- **Perfectly Placed Media Queries for Responsiveness**: I implemented media queries to ensure that the landing page looks great on all devices, from mobile phones to desktops.
+
+
